@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="title">محاسبه BMI ، شاخص توده بدنی</string>
+    <string name="height">قد به سانتی متر</string>
+    <string name="weight">وزن به کیلوگرم</string>
+    <string name="calculate">محاسبه کن</string>
+    <string name="bmi">شاخص توده بدنی شما:</string>
+    <string name="status">وضعیت شما:</string>
+    <string name="toast">لطفا اعداد بزرگتر از صفر وارد کنید!!!</string>
+    <string name="restart">محاسبه مجدد</string>
+    <string name="low">کمبود وزن</string>
+    <string name="normal">وزن سلامت</string>
+    <string name="heavy">اضافه وزن</string>
+    <string name="fat">چاقی</string>
+</resources>
