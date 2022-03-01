@@ -43,7 +43,7 @@ class MainActivity : AppCompatActivity() {
             if (height.text.toString().isNotEmpty()) {
                 heightValue = (height.text.toString().toDouble() / 100)
             }
-            if (weightValue > 0.0 && heightValue > 0.00) {
+            if (weightValue > 0.0 && heightValue > 0.0) {
                 val bmiValue = String.format("%.2f", weightValue / heightValue.pow(2))
                 result.text = bmiValue
                 bmi.visibility = View.VISIBLE
